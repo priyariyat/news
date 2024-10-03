@@ -72,7 +72,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - Swagger/OpenAPI for API documentation
 
 ## Clone the repository:
-   git clone https://github.com/yourusername/news-aggregator.git
+   git clone  https://github.com/priyariyat/news.git (in Master Branch)
    cd news-aggregator
 
 ## Copy the .env.example file to .env: 
